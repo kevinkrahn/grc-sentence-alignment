@@ -1,6 +1,7 @@
 # Ancient Greek Translation Sentence Alignment
 
-This repo is a demonstration of how to use Bertalign to align Ancient Greek text with English translations.
+This repo is a demonstration of how to use [https://github.com/kevinkrahn/grc-bertalign](Bertalign) to align Ancient Greek text with English translations using
+the [https://huggingface.co/kevinkrahn/shlm-grc-en](shlm-grc-en) sentence embedding model, trained specifically for this task.
 
 ## Usage
 
